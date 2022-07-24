@@ -1,6 +1,9 @@
 <html>
 <body>
-	<h2>Hello World!</h2>
-	<h3>Hi, This is from Build 2 </h3>
+	<center>
+		<h2>Hi! I am Ansible Build</h2>
+		<hr>
+		<h3>Hi, This is Build 3 now</h3>
+	</center>
 </body>
 </html>
